@@ -12,3 +12,5 @@
 // todo 2.. add the viewmodel
 // todo 3.. implement the interface
 
+
+// data.forEach(function(item){if(item.id%2==0){item.work=="not done"}});
