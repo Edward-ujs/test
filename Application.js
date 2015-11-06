@@ -8,3 +8,6 @@
 
  //todo.. regiser the service
 
+
+// todo 2.. add the viewmodel
+
